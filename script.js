@@ -14,42 +14,42 @@ const quotes = [
     { quote: `"You miss 100% of the shots you don't take."`,
      source:' Wayne Gretzky',
      citation: `https://blog.hubspot.com/sales/famous-quotes`,
-     year: '1991'
+     year: ' 1991'
   }  ,
     
   { quote: `"Our time is limited, so don't waste it living someone else's life.`,
    source: 'Steve Jobs',
-    citation: `https://ew.com/`,
+    citation: ` https://ew.com/`,
   }  ,
     
   { quote: `"There are people here that work more on upgrading their phones than upgrading their minds`,
     source:'Gary Vaynerchuck',
-    year: '2018'
+    year: ' 2018'
   } ,
     
   { quote: `"I never lose. I either win or learn"`,
     source:'Nelson Mandela',
     citation: `oxfordreference.com`,
-    year: '2003'
+    year: ' 2003'
   },
     
   {quote: `"There is no 'i' in team but there is in win."`,
     source:'Micheal Jordan',
     citation: 'The Last Dance',
     tag: "Sports & Fitness (genre)",
-    year: '2020'
+    year: ' 2020'
   } ,
     
   {quote: `"I think it is possible for ordinary people to choose to be extraordinary."`,
     source:'Elon Musk',
-    citation: `inc.com`,
-    year: '2008'
+    citation: ` inc.com`,
+    year: ' 2008'
   }  ,
   
   {quote: `"I love a success story, but even more than a success story; I like a dude who f***s his life up and gets his life together again story."`,
   source:'Joe Rogan',
-  citation: 'The Joe Rogan Experiance Podcast',
-  year: '2016'
+  citation: ' The Joe Rogan Experiance Podcast',
+  year: ' 2016'
 }  
 
 ]
