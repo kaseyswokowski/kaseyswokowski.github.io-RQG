@@ -86,17 +86,17 @@ function printQuote() {
  
  if(randomQuote.citation){
    newDisplay +=
-   `<span class="citation">${randomQuote.citation}</span>`;
+   `<span class="citation"> ${randomQuote.citation}</span>`;
  }
  
  if(randomQuote.year){
    newDisplay +=
-   `<span class="year">${randomQuote.year}</span>`
+   `<span class="year"> ${randomQuote.year}</span>`
  }
  
  if(randomQuote.tag){
    newDisplay +=
-   `<span class="tag">${randomQuote.tag}</span>`
+   `<span class="tag"> ${randomQuote.tag}</span>`
  }
 
  newDisplay += "</p>"
